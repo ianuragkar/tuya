@@ -1,0 +1,63 @@
+{
+    "result": [
+        {
+            "active_time": 1681425704,
+            "biz_type": 18,
+            "category": "cz",
+            "create_time": 1678990459,
+            "icon": "smart/icon/bay1598402984069otRu/c26e18e5ec47f21079aac8cbdd81750f.jpg",
+            "id": "bf764d5b886fe012d19b9p",
+            "ip": "78.80.227.190",
+            "lat": "50.0507",
+            "local_key": "172720aeeda39452",
+            "lon": "14.3444",
+            "model": "S1WP",
+            "name": "Smart Energy Meter",
+            "online": true,
+            "owner_id": "151428494",
+            "product_id": "sqrf2g1amfutn4co",
+            "product_name": "Smart Energy Meter",
+            "status": [
+                {
+                    "code": "switch_1",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 7
+                },
+                {
+                    "code": "cur_current",
+                    "value": 24
+                },
+                {
+                    "code": "cur_power",
+                    "value": 179
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 23327
+                }
+            ],
+            "sub": false,
+            "time_zone": "+02:00",
+            "uid": "eu1678990237005XxWKd",
+            "update_time": 1681425704,
+            "uuid": "11dd5cc92241fae2"
+        }
+    ],
+    "success": true,
+    "t": 1681430575881,
+    "tid": "b55e947bda5711ed82361eb4e63ed0a2",
+    "file": {
+        "name": "tuya-raw.json",
+        "description": "Full raw list of Tuya devices.",
+        "account": "um9pr9ecantnpfgee9wn",
+        "date": "2023-04-14T02:02:54.341094",
+        "tinytuya": "1.12.3"
+    }
+}

@@ -1,0 +1,1 @@
+streamlit run C:\Users\Anurag\GitHub\tuya\streamlit_plot.py

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Smart Energy Meter",
+        "id": "bf764d5b886fe012d19b9p",
+        "key": "172720aeeda39452",
+        "mac": "1c:90:ff:88:de:96",
+        "uuid": "11dd5cc92241fae2",
+        "sn": "100095579012C9",
+        "category": "cz",
+        "product_name": "Smart Energy Meter",
+        "product_id": "sqrf2g1amfutn4co",
+        "biz_type": 18,
+        "model": "S1WP",
+        "sub": false,
+        "icon": "https://images.tuyaeu.com/smart/icon/bay1598402984069otRu/c26e18e5ec47f21079aac8cbdd81750f.jpg",
+        "ip": "10.0.0.31",
+        "version": "3.4"
+    }
+]
