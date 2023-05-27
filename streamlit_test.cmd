@@ -1,0 +1,1 @@
+streamlit run st_test.py

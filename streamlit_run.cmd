@@ -1,1 +1,2 @@
-streamlit run C:\Users\Anurag\GitHub\tuya\streamlit_plot.py
+streamlit run tuya_async.py
+@REM streamlit run async_test.py

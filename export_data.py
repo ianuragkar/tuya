@@ -21,7 +21,6 @@ while True:
     df.loc[len(df)] = [datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), on, round(w/10, 8), mA, round(V/10, 8), err]
     time.sleep(sampling_freq)
     if time.time() - start >= autosave_freq:
-        print('true')
         df.to_csv('energy.csv', index=False, mode='w')
         start = time.time()
     if time.perf_counter() - start_time > stop_time:
